@@ -1,6 +1,6 @@
 # Spyduck's FWV Fixes
 
-Requires <a href="https://www.nexusmods.com/newvegas/mods/58277"JIP NVSE Plugin</a> and Xoanon's bugfixes (beta patch from the <a href="https://discordapp.com/invite/wUXCzQY">Fallout Who Discord server</a>)
+Requires [JIP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277) and Xoanon's bugfixes (beta patch from the [Fallout Who Discord](https://discordapp.com/invite/wUXCzQY) server
 
 ## Changes:
 
