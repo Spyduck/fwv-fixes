@@ -3,7 +3,7 @@
 Requires [JIP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277) and Xoanon's bugfixes (beta patch from the [Fallout Who Discord](https://discordapp.com/invite/wUXCzQY) server
 
 ## Install:
-Download fwv-fixes.zip from the [Latest release](https://github.com/Spyduck/fwv-fixes/releases) and unzip into your Fallout New Vegas directory (so that the Data folder in the ZIP combines with Fallout New Vegas\Data)
+Download fwv-fixes.zip from the [latest release](https://github.com/Spyduck/fwv-fixes/releases/tag/v0.1) and unzip into your Fallout New Vegas directory (so that the Data folder in the ZIP combines with Fallout New Vegas\Data)
 
 ## Changes:
 
