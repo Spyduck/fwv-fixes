@@ -7,6 +7,9 @@ Download fwv-fixes.zip from the [latest release](https://github.com/Spyduck/fwv-
 
 ## Changes:
 
+### [v0.2](https://github.com/Spyduck/fwv-fixes/releases/tag/v0.2)
+- Fix: Roll back repair/refuel change until it's tested further
+
 ### [v0.1](https://github.com/Spyduck/fwv-fixes/releases/tag/v0.1)
 - Improvement: TARDIS "shaking" moves the camera on both axes rather than just left and right (JIP >=55.41 required)
 - Fix: Repair/refuel levers work while in drift, can cause the player to get stuck in drift
